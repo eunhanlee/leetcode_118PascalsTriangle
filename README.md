@@ -1,9 +1,6 @@
 # 118. Pascal's Triangle Problem Solved: Uncover the Most Efficient Java Algorithm
 
-Related code_study: https://www.notion.so/118-Pascal-s-Triangle-64e6f417200d498e933e531d27bf45d4
-homepage: No
-languange: Java
-written language: English
+https://eunhanspace.blogspot.com/2023/05/118pascals-triangle-problem-solved.html
 
 # Problem
 
